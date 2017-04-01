@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parcelable</string>
+    <string name="name">Name</string>
+    <string name="subscribed">Subscribed</string>
+    <string name="salutation_positive">Hi, %s , congratulation, you are subscribed</string>
+    <string name="salutation_negative">Hi, %s , sorry, you are not subscribed</string>
+</resources>
